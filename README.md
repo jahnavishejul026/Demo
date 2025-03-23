@@ -1,4 +1,4 @@
 # Demo
 I am learning to use functions of GitHub through this repository.
 <br>
-Author- Jahnavi Shejul 
+Author- Jahnavi Ajay Shejul 
